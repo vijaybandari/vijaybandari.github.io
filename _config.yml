@@ -50,20 +50,22 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: /twitter
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: facebook
+  - title: flickr
+    url: /flickr
+  - title: camera
+    url: /photo 
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: /bitbucket
   - title: github
-    url: http://github.com/jekyll
+    url: /github
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: San Francisco
+  - line: California
 
 # Build settings
 markdown: kramdown

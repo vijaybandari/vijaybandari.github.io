@@ -13,6 +13,9 @@ $(function() {
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
+    var images = ['sf-downtown', 'sf-gg1', 'sf-gg2', 'sf-gg3', 'sf-gg4', 'sf-gg5'];
+    var randomNumber = Math.floor(Math.random() * images.length);
+    $('header').css({'background-image': 'url(/img/' +  images[randomNumber] + '.jpg)'});
 });
 
 // Highlight the top nav as scrolling occurs

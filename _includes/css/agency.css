@@ -266,7 +266,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    //background-image: url(../img/sf-gg1.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -296,6 +296,15 @@ header .intro-text .intro-heading {
     font-weight: 700;
     line-height: 50px;
 }
+
+header .intro-text .intro-social {
+    margin-bottom: 25px;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-style: italic;
+    line-height: 18px;
+}
+
 
 @media(min-width:768px) {
     header .intro-text {
