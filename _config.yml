@@ -56,11 +56,13 @@ social:
   - title: flickr
     url: /flickr
   - title: camera
-    url: /photo 
+    url: /photo
   - title: bitbucket
     url: /bitbucket
   - title: github
     url: /github
+  - title: linkedin
+    url: /linkedin
 
 # Postal address (add as many lines as necessary)
 address:
