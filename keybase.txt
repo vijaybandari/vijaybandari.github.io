@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/vijaybandari
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://vijaybandari.com
+  * I am vijaybandari (https://keybase.io/vijaybandari) on keybase.
+  * I have a public key with fingerprint 08A0 2C2D F025 C4CF 658B  83D1 2C24 060E F920 A930
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017d34c8414f461b5349321d84c3bd16e7009686cc6481beac10700406e0303a6c0a",
+            "fingerprint": "08a02c2df025c4cf658b83d12c24060ef920a930",
+            "host": "keybase.io",
+            "key_id": "2c24060ef920a930",
+            "kid": "01017d34c8414f461b5349321d84c3bd16e7009686cc6481beac10700406e0303a6c0a",
+            "uid": "92aaf086e17ef69f1ebdbf64a8eefc19",
+            "username": "vijaybandari"
+        },
+        "service": {
+            "hostname": "vijaybandari.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470804592,
+    "expire_in": 157680000,
+    "prev": "74ec7f981db59392ed3362db83780e9889564944747a2442e0d003f38cdbe63a",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.55
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSBVBGD5ap4tZiSQSaeHaxcJsZnfO7OzpgghGIoIPhmTGcXdnVtfL
+7nHPnpOW0ktZUT10hYgyeogMy7R6KcssCSOCoKiwzMosChOLIH2pZqXeemxehvn+
+7/vmm3/+vrnTfAlxJPX7j3acmBX3sPdM1Fd6sSu8U9Bs2igEdwo1bGpjtZRF3FCN
+SYWgACCAMpWQThBEBsJQC0hIkURICdIljULMZAAUTLCuY0SgxlQdAg4hgBmQgKRi
+HahCtmCYViVzwo5puZ4tUYGoi9QAYkBHuoEDRCMShRzjQsAMRQSqIgEurLIjnoKH
+09QIyzFtjvFDaCreP/j/OXd0yk4RVdUABDMoMwMrBmQa1QyMVMKYoUPFI0aYY6l1
+jLNjZrXK01pUdUyhOVvglZipM6+53mv+wcrR7TruEXZs19btWl6tct1w0BO7jWGP
+vZ1poT8+Ic20KG8nF8SYEzFtSwhCztRd0zOGSAYEoIAiZgusIWw6LGR6jICMCeDL
+u4bFuKWMmC4bCoFUCyiSIjIqSVik/CNkAphCiBLASEFIRrIqIiQyQAGQDInoVGNY
+8roTYfWWLQQRj6lWcsuIWWmpbtRhQvPdO+XTfXEJvhn+eG/MfAmzk/4OX54w85eT
+hHPHS1c0ZcL0iddpTWWXTxXnxj/+crPp6clV9ttPyYkDk0bw5Z7CG8+/jZfvSHyz
+xV0nZ+3KblyeueJZ8rmys5ndwTar5NUQuXb1eX/RmgF/9ZJp9T3y+7Tb6LoYzT2w
+793Bw4setPo7GlK7JkePt+b7n3SeL4iNzcv/2TfsHI/Paa03Hw2dSJ9Ru6AooK5t
+OTILb9jvX9je86SoZP6siaYLh3bPocPpncU78q4UFC5b/3D16Oj24pTWIdzW+6F/
+Yyb0tQmJIy0bxzrvHevYtHWzM3JrIoW+PAsmTqd9zrh/dKAlpXhv92CCsq27p2Dw
+0sel174OF66MLq6qelGRkVyR/huKQTqt
+=B9qm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vijaybandari
+
+==================================================================
